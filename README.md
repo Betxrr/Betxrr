@@ -20,5 +20,5 @@ Me chamo Humberto da Rosa Rodrigues, mas pode me chamar de Beto, sou desenvolved
 
 
 
-Ainda não tenho projetos e portfólios no momento, mas já estou trabalhando em algo. Em breve, você verá mais por aqui!
+Ainda não tenho projetos e portfólios no momento, mas já estou trabalhando em algo nesse exato momento. Em breve, você verá mais por aqui!
 
