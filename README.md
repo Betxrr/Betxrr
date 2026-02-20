@@ -3,7 +3,7 @@
 Me chamo Humberto da Rosa Rodrigues, mas pode me chamar de Beto, sou desenvolvedor  Front-end e Mobile com foco em React e React Native CLI.
 
 ##
-![Estatísticas Gerais](https://github-readme-stats.vercel.app/api?username=Betxrr&show_icons=true&theme=react&hide_border=true&count_private=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Betxrr&theme=dark)](https://git.io/streak-stats)
 
 ## 🚀 Tecnologias que uso:
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
